@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\bin\Debug\ConsAppAssisgnment11.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\bin\Debug\ConsAppAssisgnment11.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\bin\Debug\ConsAppAssisgnment11.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\obj\Debug\ConsAppAssisgnment11.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\obj\Debug\ConsAppAssisgnment11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\obj\Debug\ConsAppAssisgnment11.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\obj\Debug\ConsAppAssisgnment11.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\ConsAppAssisgnment11\ConsAppAssisgnment11\obj\Debug\ConsAppAssisgnment11.pdb
